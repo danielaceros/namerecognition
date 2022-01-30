@@ -11,8 +11,8 @@
 </div>
 </html>
 
-# instaloaderbot
-A telegram bot who gets some informations and pics from Instagram. It can dowload everything like posts, highlights, stories and even more.
+# namerecognition
+A telegram bot who recognizes some stuff you need like your neem for online clases, and notify you by Telegram
 ## Getting Started
 First of all, you should dowload de repo, or even de script, 'instaloader.py' and put it in an empty folder. Later, you should install the needed modules, via 'pip/pip3 install'
 ```bash
