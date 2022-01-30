@@ -1,6 +1,6 @@
 <html>
 <div align="center">
-<img src="https://static.wikia.nocookie.net/apple/images/7/79/Siri_%28logo%29.png/revision/latest?cb=20200715180213&path-prefix=es" alt="alt text" width="250" height="250"></img>
+<img src="https://static.wikia.nocookie.net/apple/images/7/79/Siri_%28logo%29.png/revision/latest?cb=20200715180213&path-prefix=es" alt="alt text" width="200" height="200"></img>
 </div>
 <h1 align="center">@danielaceros
 <div align="center">
